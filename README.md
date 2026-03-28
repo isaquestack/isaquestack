@@ -1,6 +1,6 @@
 # Olá, eu sou o Isaque! 👋
 
-Desenvolvedor focado em transformar problemas complexos em soluções escaláveis. Atualmente, explorando o ecossistema **Front-End** para entender como cada peça da engrenagem — do design à infraestrutura — impacta na experiência do usuário final.
+Desenvolvedor focado em transformar problemas complexos em soluções escaláveis. Atualmente, exploro o ecossistema Front-End para conectar design, performance e infraestrutura, garantindo que cada engrenagem técnica impulsione a experiência do usuário final.
 
 ### 🛠️ No que estou trabalhando:
 *   💻 Estudando novas linguagens e arquiteturas de software.
