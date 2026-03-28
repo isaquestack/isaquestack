@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá, eu sou o Isaque! 👋
+Desenvolvedor focado em transformar problemas complexos em soluções escaláveis. Atualmente, explorando o ecossistema Full Stack para entender como cada peça da engrenagem — do design à infraestrutura — impacta na experiência do usuário final.
 
-<!--
-**isaquestack/isaquestack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ No que estou trabalhando:
+💻 Estudando novas linguagens e arquiteturas de software.
+🏗️ Construindo projetos pessoais para resolver problemas do dia a dia.
+📚 Sempre aprendendo algo novo sobre a "stack" completa.
+🚀 Tecnologias e Ferramentas:
+Linguagens: (Ex: HTML, CSS, JavaScript,)
+Ferramentas: Git,VS Code.
+📫 Como me encontrar:
+LinkedIn: https://www.linkedin.com/in/isaque-rocha-ribeiro/
+E-mail: isaquemellodh@gmail.com
